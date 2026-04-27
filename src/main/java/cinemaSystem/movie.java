@@ -1,11 +1,8 @@
 package cinemaSystem;
 
+import java.util.Date;
+
 public class movie {
-
-
-
-
-
 
 public class Movie {
 private int movieID;
