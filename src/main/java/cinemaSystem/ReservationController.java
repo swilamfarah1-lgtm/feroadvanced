@@ -59,7 +59,7 @@ public class ReservationController {
         if (showtimeID == -1 || seatID == -1)
             return false;
 
-        // reuse CORE logic (no duplication)
+        
         return checkSeatAvailability(showtimeID, seatID);
     }
 }
