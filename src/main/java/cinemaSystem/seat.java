@@ -5,7 +5,7 @@ public class seat {
 	private int row ;
 	private int number;
 	private boolean reserved;
-	public Seat(int seatid, int row, int number) {
+	public seat(int seatid, int row, int number) {
 		super();
 		this.seatid = seatid;
 		this.row = row;
